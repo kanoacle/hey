@@ -1,0 +1,24 @@
+{
+  "name": "stringy",
+  "version": "1.0.0",
+  "description": "Your challenge this morning is to create a function that implements an algorithm using the concepts we've covered this week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanoacle/stringy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanoacle/stringy/issues"
+  },
+  "homepage": "https://github.com/kanoacle/stringy#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
